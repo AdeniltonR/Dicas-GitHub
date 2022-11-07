@@ -79,7 +79,7 @@ Lista de tarefas:
         
 Colocar imagem (.png .jpg) tamanho no máximo 480 pix:
 
-![octocat](C:\Users\adeni\Google Drive\Meus Projetos\GitHub\Ola-Mundo\Imagens\octocat.png)
+![octocat](https://user-images.githubusercontent.com/82674104/200377586-83cae1a9-20dc-43d6-ba94-c4943d6c7614.png)
 
     ![Nome](caminho)
     
