@@ -89,6 +89,43 @@ Acessar link:
 
     [Acesse aqui](link)
     
+Tabela:
+
+Num|Nome|Nota
+---|---|---
+1|Adenilton|8,5
+2|Ribeiro|9,0
+
+    Num|Nome|Nota
+    ---|---|---
+    1|Adenilton|8,5
+    2|Ribeiro|9,0
+    
+Comando clases para marcar linha que queira `exemplo`:
+
+`exemplo.py`
+
+    `exemplo.pr`
+    
+Três clases para marcar e copiar linha que queira:
+    
+```
+num = int(input('Digite um valor:'))
+if num % 2 == 0:
+  print(f'O valor {num} é PAR')
+else:
+  print(f'O valor {num} ;e ÍMPAR')
+```
+
+    ```
+    num = int(input('Digite um valor:'))
+    if num % 2 == 0:
+      print(f'O valor {num} é PAR')
+    else:
+      print(f'O valor {num} ;e ÍMPAR')
+    ```
+
+    
 
     
     
