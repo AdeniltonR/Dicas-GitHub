@@ -125,7 +125,17 @@ else:
       print(f'O valor {num} ;e ÍMPAR')
     ```
 
-    
+Emoji:
+ 
+ Um emoji :vulcan_salute:
+ 
+      :nome_emoji:
+      
+[Links](https://github.com/ikatyang/emoji-cheat-sheet) para emoji.
+
+[Link](https://emojipedia.org/) para poder colocar no seu título issue. 
+
+
 
     
     
