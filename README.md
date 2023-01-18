@@ -2,6 +2,8 @@
   Primeiro repositório do curso Git e GitHub.
   
 # Linguagem Markdown
+
+Guia para [markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
   
 **Negrito:**
 
@@ -134,6 +136,14 @@ Emoji:
 [Link](https://github.com/ikatyang/emoji-cheat-sheet) para emoji.
 
 [Link](https://emojipedia.org/) para poder colocar no seu título issue. 
+
+Reply:
+
+    > Teste com comando.
+    
+> Teste com comando
+
+
 
 
 
