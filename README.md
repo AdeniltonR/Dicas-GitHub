@@ -131,7 +131,7 @@ Emoji:
  
       :nome_emoji:
       
-[Links](https://github.com/ikatyang/emoji-cheat-sheet) para emoji.
+[Link](https://github.com/ikatyang/emoji-cheat-sheet) para emoji.
 
 [Link](https://emojipedia.org/) para poder colocar no seu título issue. 
 
