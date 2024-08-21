@@ -9,7 +9,6 @@
 - [Histórico de Versão](#histórico-de-versão)
 - [Boas Práticas para Commits](#boas-práticas-para-commits)
 - [Resumo](#resumo)
-- [Comandos para GitHub!](#comandos-para-github!)
 - [Linguagem Markdown](#linguagem-markdown)
 
 ## Histórico de Versão
@@ -45,10 +44,6 @@ alteração no código de produção)
 
 Primeiro repositório do [**`curso Git e GitHub`**](https://www.cursoemvideo.com/curso/curso-de-git-e-github/#google_vignette).
 
-# Comandos para GitHub!
-
-Primeiro repositório do curso Git e GitHub.
-  
 # Linguagem Markdown
 
 Guia para [markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
