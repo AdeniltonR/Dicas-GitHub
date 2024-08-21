@@ -1,5 +1,53 @@
+# _Comandos para GitHub!_
+
+![Version](https://img.shields.io/badge/Version-1.0.1-blue)
+
+---
+
+## Sumário
+
+- [Histórico de Versão](#histórico-de-versão)
+- [Boas Práticas para Commits](#boas-práticas-para-commits)
+- [Resumo](#resumo)
+- [Comandos para GitHub!](#comandos-para-github!)
+- [Linguagem Markdown](#linguagem-markdown)
+
+## Histórico de Versão
+
+| Versão | Data       | Autor       | Descrição         |
+|--------|------------|-------------|-------------------|
+| 1.0.0  | 21/08/2024 | Adenilton R | Início do Projeto |
+
+---
+
+## Boas Práticas para Commits
+
+Para manter um histórico de commits organizado, siga as seguintes
+diretrizes:
+
+- `feat:` (novo recurso para o usuário, não uma nova
+funcionalidade para script de construção)
+- `fix:` (correção de bug para o usuário, não uma correção
+para um script de construção)
+- `docs:` (alterações na documentação)
+- `style:` (formatação, falta de ponto e vírgula, etc;
+nenhuma alteração no código de produção)
+- `refactor:` (refatoração do código de produção, por
+exemplo, renomeação de uma variável)
+- `test:` (adicionando testes ausentes, refatorando testes;
+sem alteração no código de produção)
+- `chore:` (atualizando tarefas pesadas, etc; nenhuma
+alteração no código de produção)
+
+---
+
+## Resumo
+
+Primeiro repositório do [**`curso Git e GitHub`**](https://www.cursoemvideo.com/curso/curso-de-git-e-github/#google_vignette).
+
 # Comandos para GitHub!
-  Primeiro repositório do curso Git e GitHub.
+
+Primeiro repositório do curso Git e GitHub.
   
 # Linguagem Markdown
 
