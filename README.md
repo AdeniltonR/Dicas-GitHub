@@ -42,7 +42,7 @@ alteração no código de produção)
 
 ## Resumo
 
-Primeiro repositório do [**`curso Git e GitHub`**](https://www.cursoemvideo.com/curso/curso-de-git-e-github/#google_vignette).
+Primeiro repositório do [**`curso Git e GitHub`**](https://www.cursoemvideo.com/curso/curso-de-git-e-github/#google_vignette), o README ensina o básico de Markdown, cobrindo formatação de texto, listas, links e imagens. Ele é um guia prático para criar documentações de forma simples e eficaz.
 
 # Linguagem Markdown
 
